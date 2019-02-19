@@ -1,0 +1,2 @@
+[lfs]
+	fetchexclude = *.caffemodel,*.pb,*.uff,*.rtmodel,*.onnx,*.zip
